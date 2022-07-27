@@ -4,8 +4,8 @@
 
 <img width="40" src="https://github.com/mmaithani/mmaithani/blob/master/original.gif" alt="kitty" />
 
-<!-- <h1 align="center">Hi 👋, I'm Mohit Maithani</h1> -->
-<!-- <h3 align="center">A Passionate Data Science & technology Enthusiast</h3> -->
+<!-- <h1 align="center">Hi 👋, I'm Rudoff Sutnga</h1> -->
+<!-- <h3 align="center">A Passionate Full Stack Developer</h3> -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mmaithani" alt="mmaithani" /> </p>
 
@@ -13,7 +13,7 @@
 <p align="left"><img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original-wordmark.svg" alt="python" width="20" height="20"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="20" height="20"/></p>
 <p align="center">
  
-[![Mohit's github stats](https://github-readme-stats.vercel.app/api?username=mmaithani)](#)
+[![Rudoff's github stats](https://github-readme-stats.vercel.app/api?username=korodoff)](#)
 
 </p>
 
