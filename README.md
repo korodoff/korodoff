@@ -7,10 +7,10 @@ Full stack web developer
 I've been coding for more than 3 years, learning different stacks having a taste towards both software and hardware. I have powered myself with frontend, backend and knowledge of IoT
 
 * 🌍  I'm based in Bengaluru
-* ✉️  You can contact me at [saikatsamanta052@gmail.com](mailto:saikatsamanta052@gmail.com)
-* 🚀  I'm currently working on [Tata consultancy services](http://www.tcs.com/)
-* 🧠  I'm learning Next Js, TensorFlow
-* 🤝  I'm open to collaborating on Reactnative Apps, Projects to help disabled
+* ✉️  You can contact me at [rudoffsutnga368@gmail.com](mailto:rudoffsutnga368@gmail.com)
+* 🚀  I'm currently a freelancer
+* 🧠  I'm learning Full Stack  Web Decelopment
+* 🤝  I'm open to collaborating on React Apps, Projects to develop website
 
 ### Skills
 
