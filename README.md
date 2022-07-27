@@ -43,11 +43,11 @@ I've been coding for more than 3 years, learning different stacks having a taste
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/saikat-glitch"><img src="https://github-readme-stats.vercel.app/api?username=saikat-glitch&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="saikat-glitch's GitHub stats" /></a>
+<a href="http://www.github.com/saikat-glitch"><img src="https://github-readme-stats.vercel.app/api?username=korodoff&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="korodoff-glitch's GitHub stats" /></a>
 
-<a href="http://www.github.com/saikat-glitch"><img src="https://github-readme-streak-stats.herokuapp.com/?user=saikat-glitch&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="http://www.github.com/korodoff"><img src="https://github-readme-streak-stats.herokuapp.com/?user=korodoff&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="https://github.com/saikat-glitch" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saikat-glitch&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/korodoff" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saikat-glitch&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 ### Support Me
 
