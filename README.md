@@ -6,7 +6,7 @@ Full stack web developer
 
 I've been coding for more than 3 years, learning different stacks having a taste towards both software and hardware. I have powered myself with frontend, backend and knowledge of IoT
 
-* 🌍  I'm based in Bengaluru
+* 🌍  I'm based in Meghalaya
 * ✉️  You can contact me at [rudoffsutnga368@gmail.com](mailto:rudoffsutnga368@gmail.com)
 * 🚀  I'm currently a freelancer
 * 🧠  I'm learning Full Stack  Web Decelopment
