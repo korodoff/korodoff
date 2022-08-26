@@ -9,7 +9,7 @@ I've been coding for more than 3 years, learning different stacks having a taste
 * 🌍  I'm based in Meghalaya
 * ✉️  You can contact me at [rudoffsutnga368@gmail.com](mailto:rudoffsutnga368@gmail.com)
 * 🚀  I'm currently a freelancer
-* 🧠  I'm learning Full Stack  Web Decelopment
+* 🧠  I'm learning Full Stack  Web Development
 * 🤝  I'm open to collaborating on React Apps, Projects to develop website
 
 ### Skills
